@@ -1,2 +1,2 @@
 "feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
-"熊本電鉄バス","http://www.kumamotodentetsu.co.jp/bus/select/","ja","20240611","20240918","20240611_20240617"
+"熊本電鉄バス","http://www.kumamotodentetsu.co.jp/bus/select/","ja","20240611","20240920","20240611_20240618"
